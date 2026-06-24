@@ -4,7 +4,7 @@
 
 Here is the introduction [presentation](https://docs.google.com/presentation/d/1_Ht_8tzPB61Tt3jDoSm8XyahU1n4aTsWaPcUqu2fs0w/edit?usp=sharing) - 19th June 2026.
 
-
+Here is the main resources are. [Main Resources](https://drive.google.com/file/d/1FfUS0eMWaX55V9GrirFElxUp5sEUWgaV/view?usp=drive_link)
 
 <!-- ### Vision-based Navigation and Runway Detection for Safe Landing
 This subteam uses computer vision algorithms for runway detection and automated landing.
